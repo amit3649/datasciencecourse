@@ -2,6 +2,8 @@
 
 Concepts Learnt
 
-* Linear Regression in one variable 
+* How to approach a Linear regression problem
+* Linear regression equation
 * Gradient Descent basics
 
+Our main aim is to minimize the sum of residuals
